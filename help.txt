@@ -1,0 +1,10 @@
+Bash commands : 
+- init the project with next TS: 
+npx create-next-app@latest 
+ parameters chose : typescript, tailwindcss, approuter
+ 
+- install useful package for carousel : 
+npm install react-responsive-carousel 
+
+
+Bright data (web unlocker is a cool tool to scrape all web)
